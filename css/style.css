@@ -26,6 +26,16 @@ font-size: 130px;
     font-weight: bold ;
 
 }
+.btn1:hover{
+    background-color: rgba(255, 127, 80, 0.579);
+    color: rgba(255, 255, 255, 0.518);
+    border: 1px solid rgba(255, 127, 80, 0.579);
+}
+.btn2:hover{
+    background-color: rgba(255, 127, 80, 0.579);
+    color: rgba(255, 255, 255, 0.518);
+    border: 1px solid rgba(255, 127, 80, 0.579);
+}
 .btn2{
     margin-left:25px ;
     text-align: center;
